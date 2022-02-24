@@ -1,0 +1,28 @@
+# Environment requirements
+jupyter
+jupyter_contrib_nbextensions
+jupyter-offlinenotebook
+jupyterlab
+jupyterlab_pygments
+jupyterlab_server
+jupyterlab_widgets
+# Constellate
+constellate-client
+
+# Notebook requirements
+bs4
+gensim==3.8.3
+matplotlib
+nbconvert==5.6.1
+nltk
+numpy
+pandas
+pyLDAvis==3.2.2
+Pillow
+selenium
+spacy
+vaderSentiment
+wordcloud
+scikit-image
+scikit-learn
+scikit-learn-intelex
